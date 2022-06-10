@@ -5,8 +5,8 @@
 
 Desde 2020 me dedicando ao estudo de ferramentas de desenvolvimentos e linguagens de programação voltadas ao Desenvolvimento Web.<br>
 
-Hard skills:
-▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS, Bootstrap e Javascript;
-▪ Aperfeiçoando ReactJs;
-▪ Desenvolvimento backend com Java, PHP e ;
-▪ Desenvolvimento e gerenciamento de bancos de dados com MySQL.
+Hard skills 💻💻: <br>
+▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS, Bootstrap e Javascript; <br>
+▪ Aperfeiçoando ReactJs; <br>
+▪ Desenvolvimento backend com Java, PHP e ; <br>
+▪ Desenvolvimento e gerenciamento de bancos de dados com MySQL. <br>
