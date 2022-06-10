@@ -8,5 +8,5 @@ Desde 2020 me dedicando ao estudo de ferramentas de desenvolvimentos e linguagen
 Hard skills 💻💻: <br>
 ▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS, Bootstrap e Javascript; <br>
 ▪ Aperfeiçoando ReactJs; <br>
-▪ Desenvolvimento backend com Java, PHP e ; <br>
+▪ Desenvolvimento backend com Java e PHP; <br>
 ▪ Desenvolvimento e gerenciamento de bancos de dados com MySQL. <br>
