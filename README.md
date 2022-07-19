@@ -3,7 +3,7 @@
 📖Estudando Técnico em Desenvolvimento de sistemas<br>
 ❤️Amo JavaScript <br>
 
-Desde 2020 me dedicando ao estudo de ferramentas de desenvolvimentos e linguagens de programação voltadas ao Desenvolvimento Web.<br>
+Desde 2020 me dedicando ao estudo de ferramentas de desenvolvimento e linguagens de programação voltadas ao Desenvolvimento Web.<br>
 
 Hard skills 💻💻: <br>
 ▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS, Bootstrap e Javascript; <br>
