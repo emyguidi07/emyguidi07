@@ -1,7 +1,10 @@
 ### Desenvolvedora e estudante Front-End
-📍 Etec Profº Camargo Aranha <br>
-📖Estudando Técnico em Desenvolvimento de sistemas<br>
+📍 Fatec Ipiranga - Pastor Enéas Tognini <br>
+📗 Estudando Análise e Desenvolvimento de sistemas <br>
+📖Formada Técnico em Desenvolvimento de sistemas<br>
 ❤️Amo JavaScript <br>
+
+
 
 Desde 2020 me dedicando ao estudo de ferramentas de desenvolvimento e linguagens de programação voltadas ao Desenvolvimento Web.<br>
 
