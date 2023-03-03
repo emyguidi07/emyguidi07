@@ -1,6 +1,6 @@
 ### Desenvolvedora e estudante Front-End
-📍 Fatec Ipiranga - Pastor Enéas Tognini <br>
-📗 Estudando Análise e Desenvolvimento de sistemas <br>
+📍 Universidade Federal do ABC - UFABC <br>
+📗 Estudando Bacharelado em Ciência e Tecnologia <br>
 📖Formada Técnico em Desenvolvimento de sistemas<br>
 ❤️Amo JavaScript <br>
 
