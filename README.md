@@ -1,15 +1,16 @@
 ### Data Engineer and Analytics
-📍 Universidade Federal do ABC - UFABC <br>
-📗 Estudando Bacharelado em Ciência e Tecnologia e Ciência de Dados <br>
-📖Formada Técnico em Desenvolvimento de sistemas<br>
 
+📍 Federal University of ABC (UFABC) <br>
+📗 Pursuing a Bachelor’s Degree in Science and Technology, and Data Science <br>
+📖 Technical Diploma in Systems Development <br>
 
-Desde 2020 me dedicando ao estudo de ferramentas de desenvolvimento e linguagens de programação.<br>
+Since 2020, I have been deeply engaged in studying software development tools and programming languages, focusing on building reliable, data-driven systems and scalable analytical solutions. <br>
 
-Hard skills 💻💻: <br>
-▪ Análise de dados;<br>
-▪ Aprendendo MLOps; <br>
-▪ Aprerfeiçoando conhecimentos em Docker e DevOps; <br>
-▪ Desenvolvimento backend com Java e Python; <br>
-▪ Desenvolvimento e gerenciamento de bancos de dados. <br>
-▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS, Bootstrap e Javascript; <br>
+Hard Skills 💻 <br>
+▪ Data Analysis and Visualization <br>
+▪ Learning and applying MLOps practices <br>
+▪ Strengthening knowledge in Docker and DevOps <br>
+▪ Backend Development with Java and Python <br>
+▪ Database Design and Management <br>
+▪ Building Applications powered by Language Models (LLMs) <br>
+
