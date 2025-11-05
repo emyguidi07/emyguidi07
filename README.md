@@ -9,7 +9,7 @@ Desde 2020 me dedicando ao estudo de ferramentas de desenvolvimento e linguagens
 Hard skills 💻💻: <br>
 ▪ Análise de dados;<br>
 ▪ Aprendendo MLOps; <br>
-▪ Aprerfeiçoandp conhecimentos em Docker e DevOps; <br>
+▪ Aprerfeiçoando conhecimentos em Docker e DevOps; <br>
 ▪ Desenvolvimento backend com Java e Python; <br>
 ▪ Desenvolvimento e gerenciamento de bancos de dados. <br>
 ▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS, Bootstrap e Javascript; <br>
