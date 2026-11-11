@@ -2,7 +2,7 @@
 
 📍 Federal University of ABC (UFABC) <br>
 📗 Pursuing a Bachelor’s Degree in Science and Technology, and Data Science <br>
-📖 Technical Diploma in Systems Development <br>
+📖 Technical Degree in Systems Development <br>
 
 Since 2020, I have been deeply engaged in studying software development tools and programming languages, focusing on building reliable, data-driven systems and scalable analytical solutions. <br>
 
